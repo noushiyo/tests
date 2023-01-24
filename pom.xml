@@ -148,7 +148,7 @@
         <dependency>
             <groupId>org.freemarker</groupId>
             <artifactId>freemarker</artifactId>
-            <version>2.3.20</version>
+            <version>2.3.31</version>
         </dependency>
 
         <!-- Maven Version plugin -->
@@ -194,7 +194,7 @@
             <name>GNU Lesser General Public License</name>
             <url>http://www.gnu.org/copyleft/lesser.html</url>
             <distribution>repo</distribution>
-            <comments />
+            <comments/>
         </license>
     </licenses>
 
